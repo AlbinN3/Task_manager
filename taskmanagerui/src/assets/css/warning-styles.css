@@ -1,0 +1,17 @@
+.warning {
+    font-weight: bold;
+    padding: 10px;
+  }
+  
+  .warning-red {
+    color: red; /* Change to the desired color */
+  }
+  
+  .warning-black {
+    color: black; /* Change to the desired color */
+  }
+  
+  .warning-green {
+    color: green; /* Change to the desired color */
+  }
+  
